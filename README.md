@@ -101,7 +101,8 @@ A collection of coding solutions for developing algorithmic thinking and program
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviGarg&bg_color=0d0d0d&color=999999&line=cccccc&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=contribution%20activity" width="95%" alt="Contribution Activity"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviGarg&theme=github-compact&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
 
 ---
 
