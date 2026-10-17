@@ -74,7 +74,7 @@ A machine-learning project for predicting heart disease from health-related feat
 
 *algorithms · C++ · practice*
 
-A collection of coding solutions for developing algorithmic thinking and programming skills.
+A collection of coding solutions for practising algorithms and improving programming skills.
 
 <br/>
 
@@ -101,10 +101,7 @@ A collection of coding solutions for developing algorithmic thinking and program
 
 ---
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviGarg&theme=github-compact&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
-
----
+### `◈ find me`
 
 <a href="https://www.linkedin.com/in/purvigarg27/">
 <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
