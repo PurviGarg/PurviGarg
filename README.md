@@ -1,141 +1,120 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Purvi Garg
+<br/>
 
-### 🤖 Robotics & AI Student | Machine Learning | Computer Vision
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=650&height=80&lines=purvi+garg.;robotics.+AI.+code.;building+intelligent+systems.;learning+by+building.;@PurviGarg." alt="Purvi Garg"/>
 
-*Building intelligent solutions, one project at a time.*
+*robotics by curiosity &nbsp;·&nbsp; AI by passion &nbsp;·&nbsp; code by practice*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Robotics+%26+AI+Student;Exploring+Machine+Learning;Building+Computer+Vision+Projects;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<br/>
+
+<a href="https://www.linkedin.com/in/purvigarg27/">
+<img src="https://img.shields.io/badge/LINKEDIN-0d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/PurviGarg">
+<img src="https://img.shields.io/badge/GITHUB-0d0d0d.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+---
+
+<a href="https://github.com/PurviGarg">
+<img src="https://github-readme-stats.vercel.app/api?username=PurviGarg&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=cccccc&border_color=2a2a2a&border_radius=8&rank_icon=github&card_width=380" height="160" alt="GitHub Stats"/>
+</a>&nbsp;<a href="https://github.com/PurviGarg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurviGarg&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=999999&border_color=2a2a2a&border_radius=8&langs_count=6&card_width=280" height="160" alt="Most Used Languages"/>
+</a>
+
+<img src="https://streak-stats.demolab.com?user=PurviGarg&theme=dark&background=0d0d0d&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=555555&border=2a2a2a&border_radius=8" height="170" alt="GitHub Streak"/>
+
+---
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
+
+<code>◈ computer vision</code>
+
+### NAITRA
+
+*object detection · object tracking*
+
+A computer-vision project using YOLO and OpenCV for video analysis and object tracking.
+
+<br/>
+
+<a href="https://github.com/PurviGarg/NAITRA">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="NAITRA"/>
+</a>
+
+</td>
+<td align="center" valign="top" width="50%">
+
+<code>◈ machine learning</code>
+
+### Heart Disease Prediction
+
+*data · prediction · ML*
+
+A machine-learning project for predicting heart disease from health-related features.
+
+<br/>
+
+<a href="https://github.com/PurviGarg/HeartDiseasePrediction">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="Heart Disease Prediction"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<code>◈ problem solving</code>
+
+### LeetCode Solutions
+
+*algorithms · C++ · practice*
+
+A collection of coding solutions for developing algorithmic thinking and programming skills.
+
+<br/>
+
+<a href="https://github.com/PurviGarg/LeetCode-solutions">
+<img src="https://img.shields.io/badge/VIEW_SOLUTIONS-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Solutions"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `◈ technologies`
 
 <p>
-  <a href="https://github.com/PurviGarg">
-    <img src="https://img.shields.io/badge/GitHub-PurviGarg-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=PurviGarg&style=flat-square&color=blue" alt="Profile views"/>
-
-</div>
-
----
-
-## 💫 About Me
-
-- 🎓 B.Tech student in Robotics & Artificial Intelligence at JIIT
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Robotics
-- 👁️ Exploring Computer Vision and intelligent automation
-- 🐍 Working with Python and C++
-- 🧠 Practising data structures, algorithms, and problem-solving
-- 🚀 Interested in building AI-powered real-world applications
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,opencv,tensorflow" alt="Technology icons"/>
-</p>
-
-### Areas of Interest
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-412991?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-0078D4?style=flat-square" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Robotics-00A86B?style=flat-square" alt="Robotics"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0d0d0d?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/YOLO-0d0d0d?style=flat-square&logoColor=white" alt="YOLO"/>
+<img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 NAITRA — Computer Vision & Object Tracking
-
-A computer-vision project involving video analysis and object tracking.
-
-- Object detection and tracking using YOLO
-- Video processing with OpenCV
-- Designed as a foundation for intelligent monitoring applications
-
-**Tech:** Python · YOLO · OpenCV
-
-[![NAITRA](https://img.shields.io/badge/View_Project-NAITRA-blue?style=for-the-badge&logo=github)](https://github.com/PurviGarg/NAITRA)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviGarg&bg_color=0d0d0d&color=999999&line=cccccc&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=contribution%20activity" width="95%" alt="Contribution Activity"/>
 
 ---
 
-### ❤️ Heart Disease Prediction
+<a href="https://www.linkedin.com/in/purvigarg27/">
+<img src="https://img.shields.io/badge/LINKEDIN-0d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/PurviGarg">
+<img src="https://img.shields.io/badge/GITHUB-0d0d0d.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-A machine-learning project that predicts heart disease from health-related input features.
+<br/><br/>
 
-- Data preprocessing and feature analysis
-- Machine-learning model development
-- Prediction and evaluation
-
-**Tech:** Python · Machine Learning
-
-[![Heart Disease Prediction](https://img.shields.io/badge/View_Project-Heart_Disease_Prediction-red?style=for-the-badge&logo=github)](https://github.com/PurviGarg/HeartDiseasePrediction)
-
----
-
-### 💻 LeetCode Solutions
-
-A collection of coding solutions to strengthen programming fundamentals and problem-solving skills.
-
-- Algorithm practice
-- Data structures
-- C++ problem-solving
-
-**Tech:** C++
-
-[![LeetCode Solutions](https://img.shields.io/badge/View_Project-LeetCode_Solutions-orange?style=for-the-badge&logo=github)](https://github.com/PurviGarg/LeetCode-solutions)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PurviGarg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurviGarg&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PurviGarg&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviGarg&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Learn • Build • Innovate
-
-*Thanks for visiting my profile!*
-
-⭐ If you find my projects interesting, consider starring a repository.
+<sub>curious mind. intelligent systems. continuous learning.</sub>
 
 </div>
